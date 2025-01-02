@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 ![Titanic Survival Prediction](https://raw.githubusercontent.com/Masterx-AI/Project_Titanic_Survival_Prediction_/main/titanic.jpg)
-This project implements a machine learning model to predict passenger survival on the Titanic based on historical data.
+This project aims to analyze the dataset and  answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc). The project also implements a machine learning model to predict passenger survival on the Titanic based on historical data.
 
 ### Project Goals
 
